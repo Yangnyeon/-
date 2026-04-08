@@ -1,4 +1,4 @@
-앱 이름: 약 먹을 시간 (takemed)
+앱 이름: 도스 투 타임 (dose2time)
 개발자/법인명: Dopaminus Labs.
 
 Dopaminus Labs.(이하 “회사”)은 「개인정보 보호법」 등 관련 법령을 준수하며, 이용자의 개인정보를 보호합니다.
